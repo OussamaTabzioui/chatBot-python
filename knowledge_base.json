@@ -1,0 +1,132 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hi there! How can I assist you today?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello! What can I do for you?"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm just a bot, but I'm here and ready to help! How can I assist you today?"
+    },
+    {
+      "question": "what is the weather like",
+      "answer": "I don't have real-time weather information, but you can check your local weather using a weather app or website."
+    },
+    {
+      "question": "what is python",
+      "answer": "Python is a high-level programming language known for its readability and versatility. It's used in web development, data analysis, artificial intelligence, and more."
+    },
+    {
+      "question": "what is the capital of France",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "what is the meaning of life",
+      "answer": "The meaning of life is a philosophical question that has been debated for centuries. Many people find meaning through relationships, achievements, and personal fulfillment."
+    },
+    {
+      "question": "how can I improve my programming skills",
+      "answer": "To improve your programming skills, practice regularly, work on real-world projects, read books and documentation, and engage with the programming community."
+    },
+    {
+      "question": "what is the time",
+      "answer": "I don't have real-time capabilities, but you can check the current time on your device or through an online clock."
+    },
+    {
+      "question": "what are your capabilities",
+      "answer": "I can answer questions, provide information, help with programming problems, and engage in general conversation."
+    },
+    {
+      "question": "what is artificial intelligence",
+      "answer": "Artificial Intelligence (AI) is a field of computer science that focuses on creating systems capable of performing tasks that typically require human intelligence, such as understanding natural language and recognizing patterns."
+    },
+    {
+      "question": "who is the president of the United States",
+      "answer": "As of my last update, Joe Biden is the President of the United States. Please check the latest information as political positions can change."
+    },
+    {
+      "question": "how can I contact customer support",
+      "answer": "To contact customer support, you can usually find contact information on the company's website or use their support email or phone number."
+    },
+    {
+      "question": "thank you",
+      "answer": "You're welcome! If you have any more questions, feel free to ask."
+    },
+    {
+      "question": "goodbye",
+      "answer": "Goodbye! Have a great day. If you need help again, don't hesitate to reach out."
+    },
+    {
+      "question": "search for automata",
+      "answer": "Sorry, I couldn't find any information on this topic."
+    },
+    {
+      "question": "automata",
+      "answer": "The term 'automata' may refer to: Automatic (Australian band), Automatic (American band), The Automatic, Automatic (Jack Bruce album), Automatic (Sharpe & Numan album). Please provide more details."
+    },
+    {
+      "question": "what about python is it good for the next 10 years",
+      "answer": "Monty Python's Life of Brian (also known as Life of Brian) is a 1979 British black comedy film starring and written by the comedy group Monty Python (Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones and Michael Palin)."
+    },
+    {
+      "question": "what you know about Muslims",
+      "answer": "Muslims (Arabic: \u0627\u0644\u0645\u0633\u0644\u0645\u0648\u0646, romanized: al-Muslim\u016bn, lit.\u2009'submitters [to God]') are people who adhere to Islam, a monotheistic religion belonging to the Abrahamic tradition."
+    },
+    {
+      "question": "muslims prayer",
+      "answer": "Salah (Arabic: \u0671\u0644\u0635\u064e\u0651\u0644\u064e\u0627\u0629\u064f, romanized: a\u1e63-\u1e62al\u0101h) is the principal form of worship in Islam."
+    },
+    {
+      "question": "formula 1 2024",
+      "answer": "Sorry, I couldn't find any information on this topic."
+    },
+    {
+      "question": "python game how i can create a game",
+      "answer": "Sorry, I couldn't find any information on this topic."
+    },
+    {
+      "question": "i feel tired today ",
+      "answer": "\"I Got You (I Feel Good)\" is a song by the American singer James Brown."
+    },
+    {
+      "question": "shcool is bad , what you seggest to me to do ",
+      "answer": "Nothing you can do."
+    },
+    {
+      "question": "philosophie",
+      "answer": "Philosophy ('love of wisdom' in Ancient Greek) is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language."
+    },
+    {
+      "question": "arabic",
+      "answer": "The Arabs (Arabic: \u0639\u064e\u0631\u064e\u0628, DIN 31635: \u02bfarab, Arabic pronunciation: [\u02c8\u0295\u0251.r\u0251b] ), also known as the Arab people (\u0627\u0644\u0634\u064e\u0651\u0639\u0652\u0628\u064e \u0627\u0644\u0652\u0639\u064e\u0631\u064e\u0628\u0650\u064a\u0651), are an ethnic group mainly inhabiting the Arab world in West Asia and North Africa."
+    },
+    {
+      "question": "my name ",
+      "answer": "My Name Is Khan is a 2010 social drama film directed by Karan Johar and co-written by Shibani Bathija and Niranjan Iyengar."
+    },
+    {
+      "question": "is",
+      "answer": "what you want to say exactly?"
+    },
+    {
+      "question": "i'm oussama",
+      "answer": "The discography of Oussama Belhcen, a Moroccan pop singer and songwriter, contains three studio album and six singles."
+    },
+    {
+      "question": "i'm here",
+      "answer": "The term 'i'm here' may refer to: I'm Here (film), \"I'm Here\" (Charlie Major song), \"I'm Here\" (Yuna Ito song), Insomniatic, The Color Purple (musical). Please provide more details."
+    },
+    {
+      "question": "do you know , the film of idiots",
+      "answer": "no , tell me about it "
+    },
+    {
+      "question": "it's not good",
+      "answer": "\"It's No Good\" a song by English electronic music band Depeche Mode, released on 31 March 1997 as the second single from their ninth studio album, Ultra (1997)."
+    }
+  ]
+}

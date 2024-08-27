@@ -1,0 +1,1464 @@
+{
+  "questions": [
+    {
+      "question": "Hello ",
+      "answer": "Hi! how are you ?"
+    },
+    {
+      "question": "Hello, how are you?",
+      "answer": "I'm doing well, thank you. How about you?"
+    },
+    {
+      "question": "Hello, can you help me?",
+      "answer": "Of course! What do you need help with?"
+    },
+    {
+      "question": "Hello, what's your name?",
+      "answer": "I'm ChatGPT, your AI assistant."
+    },
+    {
+      "question": "Hello, where are you from?",
+      "answer": "I'm based in the cloud, ready to assist you from anywhere."
+    },
+    {
+      "question": "Hello, what's the meaning of life?",
+      "answer": "Many believe it's about finding purpose and happiness."
+    },
+    {
+      "question": "Hello, how can I be happy?",
+      "answer": "Focus on what you love, connect with others, and take care of yourself."
+    },
+    {
+      "question": "Hello, why do people argue?",
+      "answer": "People often argue due to misunderstandings or differing perspectives."
+    },
+    {
+      "question": "Hello, how can I find peace?",
+      "answer": "Inner peace often comes from mindfulness, self-acceptance, and living in the present."
+    },
+    {
+      "question": "Hello, how can I improve my relationships?",
+      "answer": "Communicate openly, listen actively, and show empathy."
+    },
+    {
+      "question": "Hello, why is life so hard?",
+      "answer": "Life has its challenges, but they help us grow and find meaning."
+    },
+    {
+      "question": "Hello, how can I overcome fear?",
+      "answer": "Face your fears gradually, build confidence, and seek support when needed."
+    },
+    {
+      "question": "Hello, what should I do when I feel lost?",
+      "answer": "Take time to reflect, set small goals, and seek guidance from trusted people."
+    },
+    {
+      "question": "Hello, how can I build self-confidence?",
+      "answer": "Practice self-compassion, set achievable goals, and celebrate your successes."
+    },
+    {
+      "question": "Hello, what is love?",
+      "answer": "Love is a deep, affectionate connection between people, often involving care, respect, and mutual support."
+    },
+    {
+      "question": "Hello, how do I know if someone loves me?",
+      "answer": "Look for signs of care, respect, and consistent effort in your relationship."
+    },
+    {
+      "question": "Hello, why do people lie?",
+      "answer": "People lie for various reasons, such as fear, protection, or to avoid conflict."
+    },
+    {
+      "question": "Hello, how can I forgive someone?",
+      "answer": "Forgiveness involves letting go of anger and resentment, often for your own peace of mind."
+    },
+    {
+      "question": "Hello, why do people change?",
+      "answer": "People change due to life experiences, personal growth, and changing circumstances."
+    },
+    {
+      "question": "Hello, how can I stay motivated?",
+      "answer": "Set clear goals, break tasks into small steps, and remind yourself of your purpose."
+    },
+    {
+      "question": "Hello, why do we dream?",
+      "answer": "Dreams are believed to be a way for our brain to process emotions, memories, and experiences."
+    },
+    {
+      "question": "Hello, how can I deal with stress?",
+      "answer": "Practice relaxation techniques, stay organized, and seek support when needed."
+    },
+    {
+      "question": "Hello, what is the key to success?",
+      "answer": "Success often comes from persistence, hard work, and a willingness to learn from failures."
+    },
+    {
+      "question": "Hello, how can I make a difference?",
+      "answer": "Start small, use your skills and passions, and help those around you."
+    },
+    {
+      "question": "Hello, why is time so important?",
+      "answer": "Time is finite and managing it well allows us to make the most of our lives."
+    },
+    {
+      "question": "Hello, how can I be a better person?",
+      "answer": "Practice empathy, stay true to your values, and continuously strive to improve."
+    },
+    {
+      "question": "Hello, how do I find my passion?",
+      "answer": "Explore different activities, listen to your interests, and be open to new experiences."
+    },
+    {
+      "question": "Hello, why do we feel lonely?",
+      "answer": "Loneliness can stem from a lack of meaningful connections or changes in life circumstances."
+    },
+    {
+      "question": "Hello, how can I cope with loneliness?",
+      "answer": "Connect with others, engage in activities you enjoy, and practice self-compassion."
+    },
+    {
+      "question": "Hello, how can I be more mindful?",
+      "answer": "Focus on the present moment, practice deep breathing, and engage in activities with full attention."
+    },
+    {
+      "question": "Hello, what is the purpose of life?",
+      "answer": "Purpose varies for everyone; it often involves pursuing passions, helping others, and seeking fulfillment."
+    },
+    {
+      "question": "Hello, why do we have emotions?",
+      "answer": "Emotions help us respond to our environment and communicate our needs and feelings."
+    },
+    {
+      "question": "Hello, how can I be more creative?",
+      "answer": "Allow yourself to experiment, embrace failure as part of the process, and expose yourself to new ideas."
+    },
+    {
+      "question": "Hello, why do we need sleep?",
+      "answer": "Sleep is essential for physical health, mental well-being, and overall functioning."
+    },
+    {
+      "question": "Hello, how can I live a fulfilling life?",
+      "answer": "Align your actions with your values, nurture relationships, and pursue activities that bring joy."
+    },
+    {
+      "question": "Hello, why do we experience pain?",
+      "answer": "Pain signals that something is wrong, helping us protect and care for our bodies."
+    },
+    {
+      "question": "Hello, how can I be more patient?",
+      "answer": "Practice mindfulness, manage expectations, and remind yourself that progress takes time."
+    },
+    {
+      "question": "Hello, why do people hurt others?",
+      "answer": "People may hurt others due to their own pain, misunderstandings, or lack of empathy."
+    },
+    {
+      "question": "Hello, how can I manage my time better?",
+      "answer": "Prioritize tasks, set realistic goals, and eliminate distractions."
+    },
+    {
+      "question": "Hello, how can I improve my mental health?",
+      "answer": "Practice self-care, seek support, and engage in activities that promote well-being."
+    },
+    {
+      "question": "Hello, why do people get angry?",
+      "answer": "Anger often arises from frustration, perceived injustice, or unmet needs."
+    },
+    {
+      "question": "Hello, how can I handle rejection?",
+      "answer": "Acknowledge your feelings, learn from the experience, and remember that rejection is not a reflection of your worth."
+    },
+    {
+      "question": "Hello, why is kindness important?",
+      "answer": "Kindness fosters connection, improves well-being, and creates a positive impact on others."
+    },
+    {
+      "question": "Hello, how can I develop good habits?",
+      "answer": "Start small, be consistent, and reward yourself for progress."
+    },
+    {
+      "question": "Hello, why do we need friends?",
+      "answer": "Friends provide support, companionship, and help us navigate life's challenges."
+    },
+    {
+      "question": "Hello, how can I set healthy boundaries?",
+      "answer": "Clearly communicate your needs, respect others' boundaries, and prioritize self-care."
+    },
+    {
+      "question": "Hello, why do we feel fear?",
+      "answer": "Fear is a survival mechanism that helps protect us from danger."
+    },
+    {
+      "question": "Hello, how can I be more resilient?",
+      "answer": "Build strong relationships, practice self-care, and develop a positive mindset."
+    },
+    {
+      "question": "Hello, why do we need love?",
+      "answer": "Love provides emotional support, fosters connection, and contributes to our overall well-being."
+    },
+    {
+      "question": "Hello, how can I achieve my goals?",
+      "answer": "Set clear, achievable steps, stay focused, and adapt as needed."
+    },
+    {
+      "question": "Hello, why do we celebrate birthdays?",
+      "answer": "Birthdays mark another year of life, celebrating growth and the journey ahead."
+    },
+    {
+      "question": "Hello, how can I be more organized?",
+      "answer": "Create a system that works for you, declutter regularly, and prioritize tasks."
+    },
+    {
+      "question": "Hello, why is honesty important?",
+      "answer": "Honesty builds trust, fosters healthy relationships, and aligns with personal integrity."
+    },
+    {
+      "question": "Hello, how can I improve my communication skills?",
+      "answer": "Practice active listening, be clear and concise, and express yourself with empathy."
+    },
+    {
+      "question": "Hello, why do we have bad days?",
+      "answer": "Bad days are a part of life, often influenced by external events, stress, or mood fluctuations."
+    },
+    {
+      "question": "Hello, how can I deal with failure?",
+      "answer": "View failure as a learning opportunity, adjust your approach, and keep moving forward."
+    },
+    {
+      "question": "Hello, why do we need to learn?",
+      "answer": "Learning helps us grow, adapt, and navigate an ever-changing world."
+    },
+    {
+      "question": "Hello, how can I practice gratitude?",
+      "answer": "Take time daily to reflect on what you're thankful for, and express appreciation to others."
+    },
+    {
+      "question": "Hello, why is nature important?",
+      "answer": "Nature provides essential resources, supports biodiversity, and contributes to our well-being."
+    },
+    {
+      "question": "Hello, how can I find my purpose?",
+      "answer": "Reflect on your passions, values, and the impact you want to make in the world."
+    },
+    {
+      "question": "Hello, why do we have different cultures?",
+      "answer": "Cultures develop based on geography, history, and the shared experiences of groups of people."
+    },
+    {
+      "question": "Hello, how can I handle uncertainty?",
+      "answer": "Focus on what you can control, stay flexible, and embrace change as an opportunity."
+    },
+    {
+      "question": "Hello, why do we need to exercise?",
+      "answer": "Exercise supports physical health, mental well-being, and overall longevity."
+    },
+    {
+      "question": "Hello, how can I make better decisions?",
+      "answer": "Gather information, weigh the pros and cons, and trust your instincts."
+    },
+    {
+      "question": "Hello, why do we need to eat healthy?",
+      "answer": "Healthy eating fuels our bodies, supports immune function, and prevents chronic diseases."
+    },
+    {
+      "question": "Hello, how can I manage anxiety?",
+      "answer": "Practice relaxation techniques, challenge negative thoughts, and seek professional help if needed."
+    },
+    {
+      "question": "Hello, why do we need goals?",
+      "answer": "Goals provide direction, motivation, and a sense of accomplishment."
+    },
+    {
+      "question": "Hello, how can I improve my self-esteem?",
+      "answer": "Practice self-compassion, challenge negative self-talk, and focus on your strengths."
+    },
+    {
+      "question": "Hello, why is it important to be open-minded?",
+      "answer": "Open-mindedness fosters learning, understanding, and better relationships with others."
+    },
+    {
+      "question": "Hello, how can I find balance in life?",
+      "answer": "Prioritize your time, set boundaries, and ensure you take care of all aspects of your well-being."
+    },
+    {
+      "question": "Hello, why do people procrastinate?",
+      "answer": "Procrastination often stems from fear, overwhelm, or a lack of motivation."
+    },
+    {
+      "question": "Hello, how can I stop procrastinating?",
+      "answer": "Break tasks into smaller steps, set deadlines, and eliminate distractions."
+    },
+    {
+      "question": "Hello, why do people get jealous?",
+      "answer": "Jealousy can arise from insecurity, fear of loss, or a comparison to others."
+    },
+    {
+      "question": "Hello, how can I be more empathetic?",
+      "answer": "Listen actively, try to understand others' perspectives, and show compassion."
+    },
+    {
+      "question": "Hello, why is it important to set boundaries?",
+      "answer": "Boundaries protect your well-being, prevent burnout, and help maintain healthy relationships."
+    },
+    {
+      "question": "Hello, how can I manage my emotions better?",
+      "answer": "Practice mindfulness, identify your triggers, and develop healthy coping strategies."
+    },
+    {
+      "question": "Hello, why do we need to take breaks?",
+      "answer": "Breaks prevent burnout, increase productivity, and improve mental clarity."
+    },
+    {
+      "question": "Hello, how can I be more productive?",
+      "answer": "Prioritize tasks, use time management techniques, and minimize distractions."
+    },
+    {
+      "question": "Hello, why is forgiveness important?",
+      "answer": "Forgiveness frees you from resentment and promotes emotional healing."
+    },
+    {
+      "question": "Hello, how can I stay focused?",
+      "answer": "Set clear goals, remove distractions, and take regular breaks to maintain concentration."
+    },
+    {
+      "question": "Hello, why is self-care important?",
+      "answer": "Self-care ensures you are mentally, physically, and emotionally healthy, enabling you to support others."
+    },
+    {
+      "question": "Hello, how can I be more self-aware?",
+      "answer": "Reflect on your thoughts and actions, seek feedback, and practice mindfulness."
+    },
+    {
+      "question": "Hello, why do we have habits?",
+      "answer": "Habits help us perform tasks efficiently by automating routine behaviors."
+    },
+    {
+      "question": "Hello, how can I develop better habits?",
+      "answer": "Start small, be consistent, and use positive reinforcement to solidify new behaviors."
+    },
+    {
+      "question": "Hello, why do we need to rest?",
+      "answer": "Rest allows our bodies and minds to recover, maintain health, and prevent burnout."
+    },
+    {
+      "question": "Hello, how can I improve my focus?",
+      "answer": "Eliminate distractions, set specific goals, and practice mindfulness."
+    },
+    {
+      "question": "Hello, why is balance important in life?",
+      "answer": "Balance prevents burnout, ensures well-being, and helps maintain harmony in different life areas."
+    },
+    {
+      "question": "Hello, how can I make better choices?",
+      "answer": "Gather information, consider the long-term impact, and trust your values."
+    },
+    {
+      "question": "Hello, why is it important to plan ahead?",
+      "answer": "Planning ahead helps you manage time, reduce stress, and achieve your goals."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "answer": "Harper Lee"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answer": "H2O"
+    },
+    {
+      "question": "What year did the Titanic sink?",
+      "answer": "1912"
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "answer": "George Washington"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answer": "Yen"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "answer": "8"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "answer": "Cheetah"
+    },
+    {
+      "question": "How many continents are there?",
+      "answer": "7"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answer": "Diamond"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "answer": "Alexander Fleming"
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "answer": "Avocado"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answer": "Ottawa"
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "answer": "Vatican City"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answer": "Nile River"
+    },
+    {
+      "question": "Who wrote '1984'?",
+      "answer": "George Orwell"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "Au"
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "answer": "Pound Sterling"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "What year did World War II end?",
+      "answer": "1945"
+    },
+    {
+      "question": "What is the main language spoken in Brazil?",
+      "answer": "Portuguese"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answer": "Canberra"
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "answer": "Jane Austen"
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "answer": "100\u00c2\u00b0C"
+    },
+    {
+      "question": "Who was the first man to walk on the moon?",
+      "answer": "Neil Armstrong"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "answer": "Berlin"
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the most spoken language in the world?",
+      "answer": "Mandarin Chinese"
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "answer": "Sahara Desert"
+    },
+    {
+      "question": "Who painted the Sistine Chapel ceiling?",
+      "answer": "Michelangelo"
+    },
+    {
+      "question": "What is the longest bone in the human body?",
+      "answer": "Femur"
+    },
+    {
+      "question": "Who is the author of 'Harry Potter'?",
+      "answer": "J.K. Rowling"
+    },
+    {
+      "question": "What is the hardest known metal?",
+      "answer": "Tungsten"
+    },
+    {
+      "question": "What is the largest land animal?",
+      "answer": "African Elephant"
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "answer": "Moscow"
+    },
+    {
+      "question": "What is the capital of China?",
+      "answer": "Beijing"
+    },
+    {
+      "question": "What is the largest island in the world?",
+      "answer": "Greenland"
+    },
+    {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "answer": "Marie Curie"
+    },
+    {
+      "question": "What is the currency of India?",
+      "answer": "Indian Rupee"
+    },
+    {
+      "question": "What is the name of the longest river in the United States?",
+      "answer": "Missouri River"
+    },
+    {
+      "question": "Who discovered America?",
+      "answer": "Christopher Columbus"
+    },
+    {
+      "question": "What is the capital of Mexico?",
+      "answer": "Mexico City"
+    },
+    {
+      "question": "Who was the first human to journey into outer space?",
+      "answer": "Yuri Gagarin"
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "answer": "Cairo"
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "answer": "Buenos Aires"
+    },
+    {
+      "question": "What is the smallest bone in the human body?",
+      "answer": "Stapes (in the ear)"
+    },
+    {
+      "question": "What is the chemical symbol for iron?",
+      "answer": "Fe"
+    },
+    {
+      "question": "Who invented the telephone?",
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "question": "What is the main ingredient in a margarita?",
+      "answer": "Tequila"
+    },
+    {
+      "question": "What is the largest continent by area?",
+      "answer": "Asia"
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "answer": "Madrid"
+    },
+    {
+      "question": "Who wrote 'The Odyssey'?",
+      "answer": "Homer"
+    },
+    {
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "answer": "Thomas Edison"
+    },
+    {
+      "question": "What is the capital of India?",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "What is the capital of South Africa?",
+      "answer": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)"
+    },
+    {
+      "question": "What is the highest waterfall in the world?",
+      "answer": "Angel Falls"
+    },
+    {
+      "question": "What is the largest ocean mammal?",
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Who painted 'Starry Night'?",
+      "answer": "Vincent van Gogh"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "answer": "Skin"
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "answer": "Bras\u00c3\u00adlia"
+    },
+    {
+      "question": "What year did the Berlin Wall fall?",
+      "answer": "1989"
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "answer": "Ankara"
+    },
+    {
+      "question": "What is the capital of Greece?",
+      "answer": "Athens"
+    },
+    {
+      "question": "What is the hottest planet in our solar system?",
+      "answer": "Venus"
+    },
+    {
+      "question": "What is the primary ingredient in hummus?",
+      "answer": "Chickpeas"
+    },
+    {
+      "question": "What is the capital of Saudi Arabia?",
+      "answer": "Riyadh"
+    },
+    {
+      "question": "Who is known as the 'Father of Computers'?",
+      "answer": "Charles Babbage"
+    },
+    {
+      "question": "What is the longest wall in the world?",
+      "answer": "Great Wall of China"
+    },
+    {
+      "question": "What is the name of the famous clock tower in London?",
+      "answer": "Big Ben"
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "answer": "Na"
+    },
+    {
+      "question": "Who invented the airplane?",
+      "answer": "Wright Brothers"
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "answer": "Bangkok"
+    },
+    {
+      "question": "What is the currency of Brazil?",
+      "answer": "Brazilian Real"
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "answer": "Stockholm"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "answer": "Ag"
+    },
+    {
+      "question": "Who wrote 'Moby-Dick'?",
+      "answer": "Herman Melville"
+    },
+    {
+      "question": "What is the most populous country in the world?",
+      "answer": "China"
+    },
+    {
+      "question": "What is the capital of Portugal?",
+      "answer": "Lisbon"
+    },
+    {
+      "question": "What is the largest lake in the world?",
+      "answer": "Caspian Sea"
+    },
+    {
+      "question": "What is the main component of natural gas?",
+      "answer": "Methane"
+    },
+    {
+      "question": "What is the capital of Ireland?",
+      "answer": "Dublin"
+    },
+    {
+      "question": "What is the capital of Norway?",
+      "answer": "Oslo"
+    },
+    {
+      "question": "What is the largest rainforest in the world?",
+      "answer": "Amazon Rainforest"
+    },
+    {
+      "question": "What is the largest city in the world by population?",
+      "answer": "Tokyo"
+    },
+    {
+      "question": "What is the capital of Finland?",
+      "answer": "Helsinki"
+    },
+    {
+      "question": "Who discovered the structure of DNA?",
+      "answer": "James Watson and Francis Crick"
+    },
+    {
+      "question": "What is the capital of Vietnam?",
+      "answer": "Hanoi"
+    },
+    {
+      "question": "What is the chemical symbol for potassium?",
+      "answer": "K"
+    },
+    {
+      "question": "What is the capital of New Zealand?",
+      "answer": "Wellington"
+    },
+    {
+      "question": "Who was the first African American president of the United States?",
+      "answer": "Barack Obama"
+    },
+    {
+      "question": "What is the most widely spoken language in Africa?",
+      "answer": "Swahili"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi again"
+    },
+    {
+      "question": "Hello, how are you?",
+      "answer": "I'm good, thank you! How about you?"
+    },
+    {
+      "question": "Hi, what's up?",
+      "answer": "Not much, just hanging out. You?"
+    },
+    {
+      "question": "Hey, how's it going?",
+      "answer": "Pretty well, thanks for asking! And you?"
+    },
+    {
+      "question": "Good morning, did you sleep well?",
+      "answer": "Yes, I did, thank you! How about you?"
+    },
+    {
+      "question": "Good afternoon, how's your day so far?",
+      "answer": "It's been great, thanks! How's yours?"
+    },
+    {
+      "question": "Good evening, how was your day?",
+      "answer": "It was good, thanks! What about yours?"
+    },
+    {
+      "question": "What's new with you?",
+      "answer": "Not much, just the usual. How about you?"
+    },
+    {
+      "question": "How's your family?",
+      "answer": "They're doing well, thank you! How's yours?"
+    },
+    {
+      "question": "What have you been up to lately?",
+      "answer": "Just work and some hobbies. How about you?"
+    },
+    {
+      "question": "How do you usually spend your weekends?",
+      "answer": "I like to relax, maybe watch a movie or go out. You?"
+    },
+    {
+      "question": "What do you do for fun?",
+      "answer": "I enjoy reading, playing games, and hanging out with friends. What about you?"
+    },
+    {
+      "question": "Do you have any plans for the weekend?",
+      "answer": "Not yet, but I'm thinking of doing something outdoors. You?"
+    },
+    {
+      "question": "Are you into any sports?",
+      "answer": "Yes, I love playing soccer and watching basketball. How about you?"
+    },
+    {
+      "question": "Do you like music?",
+      "answer": "Absolutely! I'm really into rock and jazz. What about you?"
+    },
+    {
+      "question": "Have you seen any good movies lately?",
+      "answer": "Yes, I watched a great thriller last weekend. What about you?"
+    },
+    {
+      "question": "What kind of books do you like to read?",
+      "answer": "I enjoy fiction, especially mystery novels. How about you?"
+    },
+    {
+      "question": "Do you like traveling?",
+      "answer": "Yes, I love exploring new places. How about you?"
+    },
+    {
+      "question": "Where's your favorite place you've traveled to?",
+      "answer": "I really enjoyed visiting Japan. How about you?"
+    },
+    {
+      "question": "Do you like cooking?",
+      "answer": "Yes, I find it relaxing. Do you enjoy it too?"
+    },
+    {
+      "question": "What's your favorite food?",
+      "answer": "I love Italian food, especially pasta. What about you?"
+    },
+    {
+      "question": "Do you have any pets?",
+      "answer": "Yes, I have a dog. Do you have any pets?"
+    },
+    {
+      "question": "How do you usually relax?",
+      "answer": "I like to read a book or take a walk. How about you?"
+    },
+    {
+      "question": "What kind of movies do you like?",
+      "answer": "I enjoy thrillers and comedies. What about you?"
+    },
+    {
+      "question": "What's your favorite TV show?",
+      "answer": "I really like watching comedies. How about you?"
+    },
+    {
+      "question": "How do you like to spend your free time?",
+      "answer": "I enjoy reading, hiking, and spending time with friends. What about you?"
+    },
+    {
+      "question": "Do you enjoy going out or staying in?",
+      "answer": "It depends, but I usually like staying in with a good book or movie. What about you?"
+    },
+    {
+      "question": "What are your hobbies?",
+      "answer": "I enjoy painting and playing the guitar. How about you?"
+    },
+    {
+      "question": "What's your favorite season and why?",
+      "answer": "I love spring because everything feels fresh and new. What about you?"
+    },
+    {
+      "question": "Do you prefer coffee or tea?",
+      "answer": "I'm more of a coffee person. What about you?"
+    },
+    {
+      "question": "What's your favorite type of music?",
+      "answer": "I love listening to jazz. How about you?"
+    },
+    {
+      "question": "Do you prefer reading or watching movies?",
+      "answer": "I enjoy both, but reading is a bit more relaxing for me. How about you?"
+    },
+    {
+      "question": "What's your favorite way to spend a day off?",
+      "answer": "I like to relax, maybe go for a walk or read a book. What about you?"
+    },
+    {
+      "question": "Do you enjoy working out?",
+      "answer": "Yes, it helps me stay energized. How about you?"
+    },
+    {
+      "question": "What do you usually do after work?",
+      "answer": "I like to unwind with a good book or some music. You?"
+    },
+    {
+      "question": "Do you have a favorite restaurant?",
+      "answer": "Yes, there's a great Italian place nearby. How about you?"
+    },
+    {
+      "question": "What kind of food do you like to cook?",
+      "answer": "I enjoy making pasta dishes. How about you?"
+    },
+    {
+      "question": "Do you like to dance?",
+      "answer": "Yes, it's a lot of fun! Do you enjoy dancing too?"
+    },
+    {
+      "question": "What's your favorite holiday?",
+      "answer": "I love Christmas because it's a time to be with family. What about you?"
+    },
+    {
+      "question": "Do you prefer the city or the countryside?",
+      "answer": "I enjoy the peace of the countryside. What about you?"
+    },
+    {
+      "question": "Do you like to stay up late or wake up early?",
+      "answer": "I'm more of a night owl. How about you?"
+    },
+    {
+      "question": "What's your favorite way to relax after a long day?",
+      "answer": "I like to watch a movie or read a book. What about you?"
+    },
+    {
+      "question": "Do you have any favorite childhood memories?",
+      "answer": "Yes, I loved spending summers at the beach with my family. How about you?"
+    },
+    {
+      "question": "What do you think is the most important quality in a friend?",
+      "answer": "I think trust is the most important. What about you?"
+    },
+    {
+      "question": "Do you prefer texting or calling?",
+      "answer": "I prefer texting for quick conversations, but calls are nice for catching up. How about you?"
+    },
+    {
+      "question": "What's your favorite type of weather?",
+      "answer": "I love sunny days with a cool breeze. What about you?"
+    },
+    {
+      "question": "Do you like going to the movies?",
+      "answer": "Yes, I love the experience of watching a movie on the big screen. Do you?"
+    },
+    {
+      "question": "Do you enjoy going to concerts?",
+      "answer": "Yes, live music is always a great experience. What about you?"
+    },
+    {
+      "question": "What are you passionate about?",
+      "answer": "I'm passionate about art and creativity. How about you?"
+    },
+    {
+      "question": "What kind of vacations do you prefer?",
+      "answer": "I enjoy beach vacations where I can relax. What about you?"
+    },
+    {
+      "question": "Do you have any favorite quotes?",
+      "answer": "Yes, one of my favorites is 'Be the change you wish to see in the world.' Do you have one?"
+    },
+    {
+      "question": "What's your dream job?",
+      "answer": "I'd love to work in a creative field, like writing or design. What about you?"
+    },
+    {
+      "question": "Do you enjoy social media?",
+      "answer": "I use it to stay in touch with friends and family. How about you?"
+    },
+    {
+      "question": "How do you stay organized?",
+      "answer": "I like to use lists and keep a planner. What about you?"
+    },
+    {
+      "question": "Do you prefer summer or winter?",
+      "answer": "I prefer summer because I love warm weather. What about you?"
+    },
+    {
+      "question": "What do you like to do on rainy days?",
+      "answer": "I enjoy staying in and reading or watching movies. What about you?"
+    },
+    {
+      "question": "Do you enjoy gardening?",
+      "answer": "Yes, it's very relaxing to work with plants. How about you?"
+    },
+    {
+      "question": "Do you like trying new foods?",
+      "answer": "Yes, I love discovering new flavors. How about you?"
+    },
+    {
+      "question": "What are you most thankful for?",
+      "answer": "I'm thankful for my health and my loved ones. What about you?"
+    },
+    {
+      "question": "Do you enjoy spending time outdoors?",
+      "answer": "Yes, I love hiking and being in nature. What about you?"
+    },
+    {
+      "question": "What's your favorite way to spend time with friends?",
+      "answer": "I enjoy having a meal together or just hanging out and talking. How about you?"
+    },
+    {
+      "question": "What's your favorite memory with friends?",
+      "answer": "I have great memories of road trips with my friends. What about you?"
+    },
+    {
+      "question": "Do you like attending parties?",
+      "answer": "It depends on the occasion, but I do enjoy socializing. How about you?"
+    },
+    {
+      "question": "What's your favorite type of dessert?",
+      "answer": "I love chocolate cake. What about you?"
+    },
+    {
+      "question": "Do you enjoy watching sports?",
+      "answer": "Yes, especially soccer. How about you?"
+    },
+    {
+      "question": "Do you prefer the mountains or the beach?",
+      "answer": "I prefer the beach because I love the ocean. What about you?"
+    },
+    {
+      "question": "What's your favorite time of day?",
+      "answer": "I love early mornings when everything is quiet. What about you?"
+    },
+    {
+      "question": "What's your favorite type of art?",
+      "answer": "I love impressionist paintings. What about you?"
+    },
+    {
+      "question": "Do you like going to museums?",
+      "answer": "Yes, I enjoy learning about history and art. How about you?"
+    },
+    {
+      "question": "What's your favorite childhood book?",
+      "answer": "I loved reading 'Harry Potter' as a kid. What about you?"
+    },
+    {
+      "question": "Do you like to sing?",
+      "answer": "Yes, I enjoy singing, especially with friends. Do you?"
+    },
+    {
+      "question": "What's your favorite thing about your community?",
+      "answer": "I love how friendly and supportive everyone is. What about you?"
+    },
+    {
+      "question": "Do you enjoy volunteering?",
+      "answer": "Yes, it's rewarding to help others. How about you?"
+    },
+    {
+      "question": "What's the best advice you've ever received?",
+      "answer": "To always be true to myself. What's the best advice you've received?"
+    },
+    {
+      "question": "Do you enjoy taking photos?",
+      "answer": "Yes, I love capturing memories. How about you?"
+    },
+    {
+      "question": "Do you prefer to give or receive gifts?",
+      "answer": "I enjoy giving gifts and making others happy. What about you?"
+    },
+    {
+      "question": "What's your favorite way to unwind?",
+      "answer": "I like to read a good book or take a long walk. What about you?"
+    },
+    {
+      "question": "Do you enjoy meeting new people?",
+      "answer": "Yes, it's always interesting to hear new perspectives. How about you?"
+    },
+    {
+      "question": "Do you like to play board games?",
+      "answer": "Yes, especially with friends and family. How about you?"
+    },
+    {
+      "question": "What's your favorite outdoor activity?",
+      "answer": "I enjoy hiking and exploring nature. What about you?"
+    },
+    {
+      "question": "Do you like to stay in touch with old friends?",
+      "answer": "Yes, it's important to me to keep those connections. How about you?"
+    },
+    {
+      "question": "What's your favorite way to celebrate a special occasion?",
+      "answer": "I like to spend it with loved ones, maybe have a nice dinner. How about you?"
+    },
+    {
+      "question": "Do you enjoy going to the gym?",
+      "answer": "Yes, it helps me stay fit and energized. How about you?"
+    },
+    {
+      "question": "Do you prefer reading fiction or non-fiction?",
+      "answer": "I enjoy both, but fiction is my favorite. How about you?"
+    },
+    {
+      "question": "Do you like to watch the sunset?",
+      "answer": "Yes, it's a peaceful way to end the day. Do you?"
+    },
+    {
+      "question": "What's your favorite holiday tradition?",
+      "answer": "I love decorating the tree with my family. How about you?"
+    },
+    {
+      "question": "Do you enjoy watching documentaries?",
+      "answer": "Yes, they're a great way to learn about new topics. How about you?"
+    },
+    {
+      "question": "Do you like going for walks?",
+      "answer": "Yes, it's a great way to clear my mind. How about you?"
+    },
+    {
+      "question": "Do you prefer to work alone or in a team?",
+      "answer": "I enjoy working in a team because of the collaboration. What about you?"
+    },
+    {
+      "question": "What's your favorite thing to do on a rainy day?",
+      "answer": "I like to curl up with a good book or watch a movie. How about you?"
+    },
+    {
+      "question": "How do I declare a variable in Python?",
+      "answer": "You can declare a variable by simply assigning a value to it, like `x = 10`."
+    },
+    {
+      "question": "What is a function in programming?",
+      "answer": "A function is a block of reusable code that performs a specific task."
+    },
+    {
+      "question": "How do I create a function in Python?",
+      "answer": "You can create a function using the `def` keyword, like this: `def my_function():`."
+    },
+    {
+      "question": "What is an API?",
+      "answer": "API stands for Application Programming Interface. It's a set of rules that allows different software entities to communicate with each other."
+    },
+    {
+      "question": "How do I make an HTTP request in Python?",
+      "answer": "You can use the `requests` library to make HTTP requests. For example: `import requests; response = requests.get('http://example.com')`."
+    },
+    {
+      "question": "What is a class in object-oriented programming?",
+      "answer": "A class is a blueprint for creating objects, providing initial values for state and implementations of behavior."
+    },
+    {
+      "question": "How do I define a class in Python?",
+      "answer": "You define a class using the `class` keyword, like this: `class MyClass:`."
+    },
+    {
+      "question": "What is inheritance in OOP?",
+      "answer": "Inheritance allows a class to inherit properties and methods from another class, promoting code reuse."
+    },
+    {
+      "question": "How do I use inheritance in Python?",
+      "answer": "You can use inheritance by passing the parent class as an argument when defining the child class: `class ChildClass(ParentClass):`."
+    },
+    {
+      "question": "What is a loop in programming?",
+      "answer": "A loop is a sequence of instructions that is repeated until a certain condition is met."
+    },
+    {
+      "question": "How do I write a for loop in Python?",
+      "answer": "You can write a for loop like this: `for i in range(10):`."
+    },
+    {
+      "question": "What is a while loop?",
+      "answer": "A while loop repeats a block of code as long as a specified condition is true."
+    },
+    {
+      "question": "How do I create a while loop in Python?",
+      "answer": "You can create a while loop like this: `while condition:`."
+    },
+    {
+      "question": "What is a dictionary in Python?",
+      "answer": "A dictionary is a collection of key-value pairs, like `{ 'key': 'value' }`."
+    },
+    {
+      "question": "How do I add an element to a dictionary in Python?",
+      "answer": "You can add an element by assigning a value to a new key: `my_dict['new_key'] = 'value'`."
+    },
+    {
+      "question": "What is a list in Python?",
+      "answer": "A list is an ordered collection of elements, which can be of different types, like `[1, 2, 3]`."
+    },
+    {
+      "question": "How do I append an item to a list in Python?",
+      "answer": "You can append an item to a list using the `append()` method: `my_list.append(item)`."
+    },
+    {
+      "question": "What is a tuple in Python?",
+      "answer": "A tuple is an immutable, ordered collection of elements, like `(1, 2, 3)`."
+    },
+    {
+      "question": "How do I access elements in a list in Python?",
+      "answer": "You can access elements using their index, like `my_list[0]` for the first element."
+    },
+    {
+      "question": "What is the difference between a list and a tuple in Python?",
+      "answer": "The main difference is that lists are mutable (can be changed), while tuples are immutable (cannot be changed)."
+    },
+    {
+      "question": "What is a set in Python?",
+      "answer": "A set is an unordered collection of unique elements, like `{1, 2, 3}`."
+    },
+    {
+      "question": "How do I remove duplicates from a list in Python?",
+      "answer": "You can remove duplicates by converting the list to a set: `unique_list = list(set(my_list))`."
+    },
+    {
+      "question": "What is an exception in programming?",
+      "answer": "An exception is an error that occurs during the execution of a program."
+    },
+    {
+      "question": "How do I handle exceptions in Python?",
+      "answer": "You can handle exceptions using a `try-except` block: `try: ... except Exception as e:`."
+    },
+    {
+      "question": "What is the difference between '==' and 'is' in Python?",
+      "answer": "`==` checks for value equality, while `is` checks for identity (whether two variables point to the same object)."
+    },
+    {
+      "question": "How do I read a file in Python?",
+      "answer": "You can read a file using the `open()` function, like this: `with open('file.txt', 'r') as file:`."
+    },
+    {
+      "question": "What is the difference between 'r' and 'w' in file handling?",
+      "answer": "'r' opens a file for reading, while 'w' opens a file for writing (and overwrites the file if it exists)."
+    },
+    {
+      "question": "How do I write to a file in Python?",
+      "answer": "You can write to a file using the `write()` method: `with open('file.txt', 'w') as file: file.write('Hello, World!')`."
+    },
+    {
+      "question": "What is a module in Python?",
+      "answer": "A module is a file containing Python definitions and statements. You can import it using the `import` keyword."
+    },
+    {
+      "question": "How do I import a module in Python?",
+      "answer": "You can import a module using the `import` statement: `import module_name`."
+    },
+    {
+      "question": "What is a package in Python?",
+      "answer": "A package is a collection of modules organized in directories that provide a hierarchical structure."
+    },
+    {
+      "question": "How do I create a package in Python?",
+      "answer": "You create a package by organizing your modules into directories and including an `__init__.py` file in each directory."
+    },
+    {
+      "question": "What is pip?",
+      "answer": "Pip is a package manager for Python that allows you to install and manage libraries and dependencies."
+    },
+    {
+      "question": "How do I install a package using pip?",
+      "answer": "You can install a package by running `pip install package_name` in the terminal."
+    },
+    {
+      "question": "What is virtualenv?",
+      "answer": "Virtualenv is a tool to create isolated Python environments, ensuring that dependencies are managed separately."
+    },
+    {
+      "question": "How do I create a virtual environment in Python?",
+      "answer": "You can create a virtual environment using `python -m venv env_name`."
+    },
+    {
+      "question": "How do I activate a virtual environment in Python?",
+      "answer": "You activate it using `source env_name/bin/activate` on Linux/Mac or `env_name\\Scripts\\activate` on Windows."
+    },
+    {
+      "question": "What is Git?",
+      "answer": "Git is a version control system that tracks changes in source code during software development."
+    },
+    {
+      "question": "How do I initialize a Git repository?",
+      "answer": "You can initialize a Git repository by running `git init` in your project directory."
+    },
+    {
+      "question": "What is a commit in Git?",
+      "answer": "A commit is a snapshot of changes in your repository. You can create one with `git commit -m 'message'`."
+    },
+    {
+      "question": "How do I clone a repository in Git?",
+      "answer": "You can clone a repository using `git clone repository_url`."
+    },
+    {
+      "question": "What is a branch in Git?",
+      "answer": "A branch is an independent line of development in your repository."
+    },
+    {
+      "question": "How do I create a new branch in Git?",
+      "answer": "You can create a new branch using `git checkout -b branch_name`."
+    },
+    {
+      "question": "What is a pull request?",
+      "answer": "A pull request is a way to propose changes to a repository and collaborate with others."
+    },
+    {
+      "question": "How do I merge branches in Git?",
+      "answer": "You can merge branches using `git merge branch_name`."
+    },
+    {
+      "question": "What is a conflict in Git?",
+      "answer": "A conflict occurs when changes from different branches cannot be automatically merged. You'll need to resolve it manually."
+    },
+    {
+      "question": "How do I resolve a merge conflict in Git?",
+      "answer": "You resolve a conflict by editing the conflicting files, marking them as resolved, and then committing the changes."
+    },
+    {
+      "question": "What is continuous integration?",
+      "answer": "Continuous integration is a practice where developers frequently integrate their code into a shared repository, with each integration being verified by automated tests."
+    },
+    {
+      "question": "What is a build pipeline?",
+      "answer": "A build pipeline automates the steps needed to build, test, and deploy code."
+    },
+    {
+      "question": "What is Docker?",
+      "answer": "Docker is a platform that allows you to package and run applications in isolated containers."
+    },
+    {
+      "question": "How do I create a Docker container?",
+      "answer": "You create a Docker container by running `docker run image_name`."
+    },
+    {
+      "question": "What is a Dockerfile?",
+      "answer": "A Dockerfile is a script that contains instructions to build a Docker image."
+    },
+    {
+      "question": "How do I write a Dockerfile?",
+      "answer": "A Dockerfile typically starts with a `FROM` instruction to specify the base image, followed by `RUN` commands to install dependencies."
+    },
+    {
+      "question": "What is Kubernetes?",
+      "answer": "Kubernetes is an open-source platform for automating the deployment, scaling, and management of containerized applications."
+    },
+    {
+      "question": "What is a microservice?",
+      "answer": "A microservice is an architectural style where an application is composed of small, independent services that communicate over a network."
+    },
+    {
+      "question": "What is REST?",
+      "answer": "REST stands for Representational State Transfer. It's an architectural style for designing networked applications."
+    },
+    {
+      "question": "How do I create a RESTful API?",
+      "answer": "You create a RESTful API by designing endpoints that follow REST principles, typically using HTTP methods like GET, POST, PUT, and DELETE."
+    },
+    {
+      "question": "What is JSON?",
+      "answer": "JSON (JavaScript Object Notation) is a lightweight data-interchange format that's easy for humans to read and write, and easy for machines to parse and generate."
+    },
+    {
+      "question": "How do I parse JSON in Python?",
+      "answer": "You can parse JSON using the `json` module: `import json; data = json.loads(json_string)`."
+    },
+    {
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a step-by-step procedure for solving a problem or performing a task."
+    },
+    {
+      "question": "What is a data structure?",
+      "answer": "A data structure is a way of organizing and storing data so that it can be accessed and modified efficiently."
+    },
+    {
+      "question": "What is a linked list?",
+      "answer": "A linked list is a linear data structure where elements are stored in nodes, and each node points to the next node."
+    },
+    {
+      "question": "How do I implement a linked list in Python?",
+      "answer": "You can implement a linked list by defining a `Node` class and a `LinkedList` class to manage the nodes."
+    },
+    {
+      "question": "What is a binary tree?",
+      "answer": "A binary tree is a tree data structure where each node has at most two children, referred to as the left child and the right child."
+    },
+    {
+      "question": "How do I traverse a binary tree?",
+      "answer": "You can traverse a binary tree using different methods like in-order, pre-order, and post-order traversal."
+    },
+    {
+      "question": "What is an array?",
+      "answer": "An array is a data structure that stores a fixed-size sequential collection of elements of the same type."
+    },
+    {
+      "question": "How do I reverse an array in Python?",
+      "answer": "You can reverse an array using slicing: `reversed_array = array[::-1]`."
+    },
+    {
+      "question": "What is recursion?",
+      "answer": "Recursion is a technique where a function calls itself to solve a smaller instance of the same problem."
+    },
+    {
+      "question": "How do I write a recursive function in Python?",
+      "answer": "You write a recursive function by defining a base case and making the function call itself with modified parameters."
+    },
+    {
+      "question": "What is dynamic programming?",
+      "answer": "Dynamic programming is a technique used to solve problems by breaking them down into simpler subproblems and storing the results to avoid redundant calculations."
+    },
+    {
+      "question": "What is a hash table?",
+      "answer": "A hash table is a data structure that maps keys to values for efficient data retrieval."
+    },
+    {
+      "question": "How do I implement a hash table in Python?",
+      "answer": "You can implement a hash table using a dictionary, which is Python's built-in hash table."
+    },
+    {
+      "question": "What is an algorithm's time complexity?",
+      "answer": "Time complexity describes the amount of time an algorithm takes to run as a function of the size of its input."
+    },
+    {
+      "question": "What is Big O notation?",
+      "answer": "Big O notation is a mathematical notation used to describe the upper bound of an algorithm's time complexity."
+    },
+    {
+      "question": "What is a stack?",
+      "answer": "A stack is a data structure that follows the Last In, First Out (LIFO) principle."
+    },
+    {
+      "question": "How do I implement a stack in Python?",
+      "answer": "You can implement a stack using a list, where `append()` adds an element and `pop()` removes the last element."
+    },
+    {
+      "question": "What is a queue?",
+      "answer": "A queue is a data structure that follows the First In, First Out (FIFO) principle."
+    },
+    {
+      "question": "How do I implement a queue in Python?",
+      "answer": "You can implement a queue using `collections.deque`, where `append()` adds an element and `popleft()` removes the first element."
+    },
+    {
+      "question": "What is a graph?",
+      "answer": "A graph is a data structure consisting of nodes (vertices) and edges that connect pairs of nodes."
+    },
+    {
+      "question": "How do I represent a graph in Python?",
+      "answer": "You can represent a graph using an adjacency list or an adjacency matrix."
+    },
+    {
+      "question": "What is a sorting algorithm?",
+      "answer": "A sorting algorithm is a method for arranging elements in a list in a certain order, typically ascending or descending."
+    },
+    {
+      "question": "How do I sort a list in Python?",
+      "answer": "You can sort a list using the `sort()` method or the `sorted()` function."
+    },
+    {
+      "question": "What is a binary search?",
+      "answer": "Binary search is a search algorithm that finds the position of a target value within a sorted array by repeatedly dividing the search interval in half."
+    },
+    {
+      "question": "How do I implement binary search in Python?",
+      "answer": "You can implement binary search by dividing the list and recursively searching in the appropriate half."
+    },
+    {
+      "question": "sorry",
+      "answer": "Sorry ? about what ?  Please do be sorry ."
+    },
+    {
+      "question": "hi",
+      "answer": "Hello, how are you ? "
+    },
+    {
+      "question": "good",
+      "answer": "Very good, let begin work , Do you want to ask me any question ?"
+    }
+  ]
+}
